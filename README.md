@@ -19,6 +19,7 @@
 Yet to decide
 
 
+
 #### :taxi:	**Travel**: By Cab Km, min
 
 
@@ -27,7 +28,9 @@ Yet to decide
 * **Ticket:**: *Aquarium + 4D Cinema Ticket + Madame Tussauds Admission with Snacks* (2.9k aprox) can vary depending on package, **Online booking available**
 
 
+
 #### :taxi:	**Travel**: By Cab 4.1Km, 15min
+
 
 
 ## :convenience_store:	Chinatown *(7:00PM - 9:00PM)*
@@ -38,8 +41,10 @@ Yet to decide
 #### :taxi:	**Travel**: By Cab Km, min
 
 
+
 ## :hotel: **Hotel at Bangkok**
 Yet to decide
+
 
 
 ## ***Day 2***
@@ -49,15 +54,19 @@ Yet to decide
 * **Entrence Cost:** 70THB (110INR)
 
 
+
 #### :ferry: **Travel**: By Ferry 1Km, 15min
 * **Price:** xxx
+
 
 
 ## **The grand palace + Temple of the Emberald Buddha(11:00AM: 2:00PM)**
 * **Entrence Cost:** 500THB (1.1K INR)
 
 
+
 #### :taxi:	**Travel**: By Cab Km, min
+
 
 
 ## **Chatuchak weekend market(3:00PM: 5:00PM)**
