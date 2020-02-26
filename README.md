@@ -15,10 +15,6 @@
 ## ***Day 1***
 ----
 
-----
-#### :taxi:	**Travel**: By Cab Km, min
-----
-
 ## :hotel: **Stay at Bangkok**
 *Yet to decide*
 
