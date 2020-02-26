@@ -32,7 +32,7 @@ Yet to decide
 ----
 
 ## :convenience_store:	Chinatown *(7:00PM - 9:00PM)*
-* Expenditure up to you
+- Expenditure up to you
 
 ----
 
