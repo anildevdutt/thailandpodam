@@ -30,8 +30,10 @@ Yet to decide
 #### :taxi:	**Travel**: By Cab 4.1Km, 15min
 
 ----
+
 ## :convenience_store:	Chinatown *(7:00PM - 9:00PM)*
 * Expenditure up to you
+
 ----
 
 #### :taxi:	**Travel**: By Cab Km, min
@@ -60,6 +62,6 @@ Yet to decide
 
 ----
 ## **Chatuchak weekend market(3:00PM: 5:00PM)**
-* Expenditure up to you
+  * Expenditure up to you
 ----
 
