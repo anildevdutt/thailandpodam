@@ -11,25 +11,30 @@
   - [X] Some ID card (*not GITAM ID card*)
   - [ ] Tickets
 
-____
+----
+## ***Day 1***
+----
+
+----
 #### :taxi:	**Travel**: By Cab Km, min
-____
+----
 
 ## :hotel: **Stay at Bangkok**
 *Yet to decide*
 
-____
+----
 #### :taxi:	**Travel**: By Cab Km, min
-____
+----
  
-## :ocean: **Ocean World**
+## :ocean: **Ocean World** *(2:00PM - 5:00PM)*
 * **Ticket:**: 700THB(1.6KINR) to 1050THB(2.3K) depending on package, Online booking available
 * **Avaeage time spent:** 2.5 hours
 - [ ] Ticket
 
-____
-#### :taxi:	**Travel**: By Cab Km, min
-____
-## :synagogue: **Wat Arun**
+----
+#### :taxi:	**Travel**: By Cab 8Km, 20min
+----
+
+## :synagogue: **Wat Arun** *(5:30PM - 6:00PM)*
 * **Entrence Cost:** 70THB (110INR)
-* **
+* **Time:** 1.5 hours
