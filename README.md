@@ -13,8 +13,8 @@
 
 
 ## ***Day 1***
-
 ###### Get simcard
+
 ----
 ## :hotel: **Hotel at Bangkok**
 *Yet to decide*
@@ -55,5 +55,5 @@
 * **Entrence Cost:** 500THB (1.1K INR)
 ----
 
-## ***Day 2***
+
 
