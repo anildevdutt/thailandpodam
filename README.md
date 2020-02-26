@@ -63,3 +63,28 @@ Yet to decide
 Yet to decide
 
 
+----
+
+## ***Day 4 (Pattaya)***
+
+
+----
+
+## ***Day 5 (Phuket)***
+
+
+----
+
+## ***Day 6 (Phi Phi)***
+
+----
+
+## ***Day 7 (Phi Phi)***
+
+----
+
+## ***Day 8 (Phi Phi)***
+
+----
+
+## ***Day 9 (Phuket)***
