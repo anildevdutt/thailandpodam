@@ -23,9 +23,10 @@ Yet to decide
 #### :taxi:	**Travel**: By Cab Km, min
 
 ---- 
+
 ## :ocean: **Ocean World + Madame Tussauds** *(2:00PM - 6:00PM)*
 * **Ticket:**: *Aquarium + 4D Cinema Ticket + Madame Tussauds Admission with Snacks* (2.9k aprox) can vary depending on package, **Online booking available**
-----
+
 
 #### :taxi:	**Travel**: By Cab 4.1Km, 15min
 
@@ -48,7 +49,7 @@ Yet to decide
 ----
 ## :synagogue: **Wat Arun** *(9:00AM - 10:30AM)*
 * **Entrence Cost:** 70THB (110INR)
-----
+
 
 #### :ferry: **Travel**: By Ferry 1Km, 15min
 * **Price:** xxx
@@ -56,7 +57,7 @@ Yet to decide
 ----
 ## **The grand palace + Temple of the Emberald Buddha(11:00AM: 2:00PM)**
 * **Entrence Cost:** 500THB (1.1K INR)
-----
+
 
 #### :taxi:	**Travel**: By Cab Km, min
 
