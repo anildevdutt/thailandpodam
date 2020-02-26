@@ -33,6 +33,7 @@ Yet to decide
 ## :hotel: **Hotel at Bangkok**
 Yet to decide
 
+----
 
 ## ***Day 2***
 
