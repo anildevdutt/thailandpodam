@@ -51,4 +51,15 @@ Yet to decide
 ## **Chatuchak weekend market(3:00PM: 5:00PM)**
   * Expenditure up to you
 
+----
+
+#### ? **Travel**: By ? Km, min
+
+----
+
+## ***Day 3 (Pattaya)***
+
+## :hotel: **Hotel at Pattaya**
+Yet to decide
+
 
