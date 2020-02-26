@@ -1,6 +1,6 @@
 # Thailand Podam
 
-## :airplane: **(_Hyderabad/Bangalore_) Airport**  =>  **Bangkok Airport**
+## :airplane: **(*Hyderabad/Bangalore*) Airport**  =>  **Bangkok Airport**
 * **Flight:** XXXX
 * **Price:** 6.5K - 8K
 * **Start:** 10th April 6:00PM *aprox*
