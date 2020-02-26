@@ -27,9 +27,8 @@ Yet to decide
 ## :ocean: **Ocean World + Madame Tussauds** *(2:00PM - 6:00PM)*
 * **Ticket:**: *Aquarium + 4D Cinema Ticket + Madame Tussauds Admission with Snacks* (2.9k aprox) can vary depending on package, **Online booking available**
 
-
+----
 #### :taxi:	**Travel**: By Cab 4.1Km, 15min
-
 ----
 
 ## :convenience_store:	Chinatown *(7:00PM - 9:00PM)*
