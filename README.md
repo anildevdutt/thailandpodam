@@ -6,11 +6,11 @@
 * **Start:** 10th April 6:00PM *aprox*
 * **End:** 11th April 11:00AM *aprox*
 
-Check List
-- [X] Passport
-- [ ] Vissa
-- [X] Some ID card (*not GITAM ID card*)
-- [ ] Tickets
+* Check List
+  * [X] Passport
+  * [ ] Vissa
+  * [X] Some ID card (*not GITAM ID card*)
+  * [ ] Tickets
 
 #### :taxi:	**Travel**: By Cab Km, min
 
