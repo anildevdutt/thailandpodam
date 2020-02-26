@@ -14,7 +14,7 @@
 
 ## ***Day 1***
 
-######Get simcard 
+###### Get simcard
 ----
 ## :hotel: **Hotel at Bangkok**
 *Yet to decide*
