@@ -42,5 +42,17 @@
 ## ***Day 2***
 ----
 
-## :synagogue: **Wat Arun** *(5:30PM - 6:00PM)*
+## :synagogue: **Wat Arun** *(9:00AM - 10:30AM)*
 * **Entrence Cost:** 70THB (110INR)
+
+----
+#### :ferry: **Travel**: By Ferry 1Km, 15min
+* **Price:** xxx
+----
+
+## **The grand palace + Temple of the Emberald Buddha(11:00AM: 2:00PM)**
+* **Entrence Cost:** 500THB (1.1K INR)
+
+----
+## ***Day 2***
+----
