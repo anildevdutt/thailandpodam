@@ -22,10 +22,8 @@
 #### :taxi:	**Travel**: By Cab Km, min
 ----
  
-## :ocean: **Ocean World** *(2:00PM - 5:00PM)*
-* **Ticket:**: 700THB(1.6KINR) to 1050THB(2.3K) depending on package, Online booking available
-* **Avaeage time spent:** 2.5 hours
-- [ ] Ticket
+## :ocean: **Ocean World + Madame Tussauds** *(2:00PM - 6:00PM)*
+* **Ticket:**: *Aquarium + 4D Cinema Ticket + Madame Tussauds Admission with Snacks* (2.9k aprox) can vary depending on package, **Online booking available**
 
 ----
 #### :taxi:	**Travel**: By Cab 8Km, 20min
@@ -33,4 +31,3 @@
 
 ## :synagogue: **Wat Arun** *(5:30PM - 6:00PM)*
 * **Entrence Cost:** 70THB (110INR)
-* **Time:** 1.5 hours
