@@ -12,11 +12,12 @@ Check List
 - [X] Some ID card (*not GITAM ID card*)
 - [ ] Tickets
 
+#### :taxi:	**Travel**: By Cab Km, min
 
 ## :hotel: **Stay at Bangkok**
 *Yet to decide*
 
-### **Travel**: By Cab Km, min
+#### :taxi:	**Travel**: By Cab Km, min
  
 ## :ocean: **Ocean World**
 * **Ticket:**: 700THB(1.6KINR) to 1050THB(2.3K) depending on package, Online booking available
