@@ -17,7 +17,7 @@
 
 ----
 ## :hotel: **Hotel at Bangkok**
-*Yet to decide*
+Yet to decide
 ----
 
 #### :taxi:	**Travel**: By Cab Km, min
@@ -37,7 +37,7 @@
 
 ----
 ## :hotel: **Hotel at Bangkok**
-*Yet to decide*
+Yet to decide
 ----
 
 ## ***Day 2***
