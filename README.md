@@ -15,7 +15,7 @@
 ## ***Day 1***
 ----
 
-## :hotel: **Stay at Bangkok**
+## :hotel: **Hotel at Bangkok**
 *Yet to decide*
 
 ----
@@ -26,7 +26,20 @@
 * **Ticket:**: *Aquarium + 4D Cinema Ticket + Madame Tussauds Admission with Snacks* (2.9k aprox) can vary depending on package, **Online booking available**
 
 ----
-#### :taxi:	**Travel**: By Cab 8Km, 20min
+#### :taxi:	**Travel**: By Cab 4.1Km, 15min
+----
+
+## :convenience_store:	Chinatown *(7:00PM - 9:00PM)*
+
+----
+#### :taxi:	**Travel**: By Cab Km, min
+----
+
+## :hotel: **Hotel at Bangkok**
+*Yet to decide*
+
+----
+## ***Day 2***
 ----
 
 ## :synagogue: **Wat Arun** *(5:30PM - 6:00PM)*
