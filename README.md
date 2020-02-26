@@ -31,6 +31,7 @@ Yet to decide
 
 ----
 ## :convenience_store:	Chinatown *(7:00PM - 9:00PM)*
+* Expenditure up to you
 ----
 
 #### :taxi:	**Travel**: By Cab Km, min
@@ -55,5 +56,10 @@ Yet to decide
 * **Entrence Cost:** 500THB (1.1K INR)
 ----
 
+#### :taxi:	**Travel**: By Cab Km, min
 
+----
+## **Chatuchak weekend market(3:00PM: 5:00PM)**
+* Expenditure up to you
+----
 
